@@ -13,6 +13,7 @@
 - 💬 Ask me about **React,Next,Typescript**
 
 - 📫 How to reach me **sapnasubedi797@gmail.com**
+ 📫 Know more about me **[https://sapanasubedi.netlify.app/ ](https://sapanasubedi.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
