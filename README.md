@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sapana Subedi</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate FullStack developer from Nepal</h3>
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png" alt="coding"/>
 
-<p>Hi, I'm Sapana, a Frontend Developer 🚀 from Nepal, currently, I'm working with Takeo.ai .I am a self taught developer.</p>
+<p>Hi, I'm Sapana, a Full Stack Developer 🚀 from Nepal, currently, I'm working with Takeo.ai .I am a self taught developer.</p>
 
 - 🔭 I’m currently working on **gitignore**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **python**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithm**
 
-- 💬 Ask me about **React,Next,Typescript**
+- 💬 Ask me about **React,Next,Typescript, Node, Java**
 
-- 📫 How to reach me **sapnasubedi797@gmail.com**
+- 📫 How to reach me **sapanasubedi18@gmail.com**
 - 📫 Know more about me **[https://sapanasubedi.netlify.app/ ](https://sapanasubedi.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3>
