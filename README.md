@@ -23,8 +23,7 @@
   <a href="https://www.linkedin.com/in/sapanasubedi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="link" height="30" width="40" /></a>
 </p>
 
-# 📈 Github Stats
-  ![Sapana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapnaasubedi&show_icons=true&theme=radical)
+
 # 👩‍💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,3 +48,6 @@
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+# 📈 Github Stats
+  ![Sapana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapnaasubedi&show_icons=true&theme=radical)
