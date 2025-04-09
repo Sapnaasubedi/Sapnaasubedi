@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sapana Subedi</h1>
-<h3 align="center">A passionate FullStack developer from Nepal</h3>
+<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png" alt="coding"/>
 
 <p>Hi, I'm Sapana, a Full Stack Developer 🚀 from Nepal, currently, I'm working with Takeo.ai .I am a self taught developer.</p>
@@ -16,11 +16,11 @@
 - 📫 Know more about me **[https://sapanasubedi.netlify.app/ ](https://sapanasubedi.netlify.app/)**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sapana subedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sapana subedi" height="30" width="40" /></a>
-<a href="https://instagram.com/_.sapnaa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sapnaa._" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/sapanasubedi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="link" height="30" width="40" /></a>
+<a href="https://fb.com/sapana subedi" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="sapana subedi"  /></a>
+<a href="https://instagram.com/_.sapnaa._" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_.sapnaa._"  /></a>
+  <a href="https://www.linkedin.com/in/sapanasubedi/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="link" /></a>
 </p>
 
 
