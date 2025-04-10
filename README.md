@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sapana Subedi</h1>
+<h1 align="center"> 👋, I'm Sapana Subedi</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png" alt="coding"/>
 
