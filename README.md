@@ -51,3 +51,6 @@
 
 # 📈 Github Stats
   ![Sapana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapnaasubedi&show_icons=true&theme=radical)
+
+  ![snake gif](https://github.com/Sapnaasubedi/Sapnaasubedi/blob/output/github-snake-dark.svg)
+
