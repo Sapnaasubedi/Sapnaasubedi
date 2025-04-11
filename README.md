@@ -50,7 +50,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📈 Github Stats
-  ![Sapana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapnaasubedi&show_icons=true&theme=radical)
+![Sapana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sapnaasubedi&show_icons=true&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=Sapnaasubedi&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapnaasubedi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![snake gif](https://github.com/Sapnaasubedi/Sapnaasubedi/blob/output/github-snake-dark.svg)
 
-  ![snake gif](https://github.com/Sapnaasubedi/Sapnaasubedi/blob/output/github-snake-dark.svg)
+
 
