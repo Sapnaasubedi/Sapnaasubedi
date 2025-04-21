@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Data Structures and Algorithm**
 
-- 💬 Ask me about **React,Next,Typescript, Node, Java**
+- 💬 Ask me about **React,Next,Typescript, Node, Express,Java**
 
 - 📫 How to reach me **sapanasubedi18@gmail.com**
 - 📫 Know more about me **[https://sapanasubedi.netlify.app/ ](https://sapanasubedi.netlify.app/)**
