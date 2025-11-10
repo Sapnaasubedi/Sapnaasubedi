@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **gitignore**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Rust**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithm**
 
